@@ -1,1 +1,0 @@
-# solokns-map-texture
